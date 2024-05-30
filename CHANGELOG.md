@@ -5,9 +5,9 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [2.0.1-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
+## [2.0.1] - 2024-05-30
+### Changed
+- Internal updates.
 
 ## [2.0.0] - 2024-02-07
 ### Changed
@@ -235,7 +235,7 @@ This is an alpha version! The changes listed here are not final.
 
 - Add partner subsidiary id to upgrade URLs.
 
-[2.0.1-alpha]: https://github.com/Automattic/jetpack-partner/compare/v2.0.0...v2.0.1-alpha
+[2.0.1]: https://github.com/Automattic/jetpack-partner/compare/v2.0.0...v2.0.1
 [2.0.0]: https://github.com/Automattic/jetpack-partner/compare/v1.7.25...v2.0.0
 [1.7.25]: https://github.com/Automattic/jetpack-partner/compare/v1.7.24...v1.7.25
 [1.7.24]: https://github.com/Automattic/jetpack-partner/compare/v1.7.23...v1.7.24
